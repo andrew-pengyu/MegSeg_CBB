@@ -31,7 +31,7 @@ A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, an
 
 ## Main Comparison Methods
 
-<img title="" src="./Comparison_of three_model_architectures.png" alt="Alternative text" width="637">
+<img title="" src="./Comparison_of three_model_architectures.png" alt="Alternative text" >
  
 ### U-Net Based Methods
 
