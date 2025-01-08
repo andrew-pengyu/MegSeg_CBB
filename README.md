@@ -9,15 +9,11 @@ A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, an
 
 
 
-## image
-! [Currentzpy11](https://github.com/andrew040104/MedSeg_CBB/blob/main/images/Comparison_method%20_tree_diagram.png)
- <img title="" src="./Comparison_method _tree_diagram.png" alt="Alternative text" width="637">
- <img title="" src="./Comparison_of three_model_architectures.png" alt="Alternative text" width="637">
- <img title="" src="./Current_mainstream_datasets.png" alt="Alternative text" width="637">
- <img title="" src="./human_organ_distribution_maps.png" alt="Alternative text" width="637">
+ 
 ## Mainstream Datasets
 
-
+ <img title="" src="./Current_mainstream_datasets.png" alt="Alternative text" width="637">
+ 
 |      Organ     |      Dataset Name     | Paper Title                                                                                                                                                                     | Download          |
 |:--------------:|:---------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
 |      Brain     |          BraTS        | [The RSNA-ASNR-MICCAI BraTS 2021 Benchmark on Brain Tumor Segmentation and Radiogenomic Classification](https://https://arxiv.org/abs/2107.02314)                               | [Link](https://www.cancerimagingarchive.net/analysis-result/rsna-asnr-miccai-brats-2021/)        |
@@ -31,7 +27,12 @@ A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, an
 | Comprehensive  |           QUBIQ       | [QUBIQ: Uncertainty Quantification for Biomedical Image Segmentation Challenge](https://arxiv.org/html/2405.18435v2)                                                            | [Link](https://qubiq.grand-challenge.org/participation/)     |
 | Comprehensive  |Synapse Multi-Organ CT | [MICCAI 2015 Multi-Atlas Abdomen Labeling Challenge](https://www.synapse.org/Synapse:syn3193805/wiki/217789)                                                                    | [Link](https://paperswithcode.com/sota/medical-image-segmentation-on-synapse-multi)     |
 
+ <img title="" src="./human_organ_distribution_maps.png" alt="Alternative text" width="637">
+
 ## Main Comparison Methods
+
+<img title="" src="./Comparison_of three_model_architectures.png" alt="Alternative text" width="637">
+ 
 ### U-Net Based Methods
 
 | Year |  Venue  |   Acronym   | Paper Title                                                                                                                                                            | Code/Project                   |
@@ -86,7 +87,8 @@ A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, an
 | 2022 |   WACV  |  CFlow-AD   | [CFLOW-AD: Real-Time Unsupervised Anomaly Detection with Localization via Conditional Normalizing Flows](https://arxiv.org/abs/2107.12571)   | [Code](https://github.com/gudovskiy/cflow-ad) |
 | 2024 |   CVPR  |     BGAD    | [Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection](https://arxiv.org/abs/2207.01463)            | [Code](https://github.com/xcyao00/BGAD) |
 
-
+ <img title="" src="./Comparison_method _tree_diagram.png" alt="Alternative text" width="637">
+ 
 ## Contributing
 
 *The repository is built and maintained by Pengyu Zhu.*
