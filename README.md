@@ -11,9 +11,10 @@ A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, an
 
 ## image
 ! [Currentzpy11](https://github.com/andrew040104/MedSeg_CBB/blob/main/images/Comparison_method%20_tree_diagram.png)
- <img title="" src="./th.jpg" alt="Alternative text" width="637">
-
-
+ <img title="" src="./Comparison_method _tree_diagram.png" alt="Alternative text" width="637">
+ <img title="" src="./Comparison_of three_model_architectures.png" alt="Alternative text" width="637">
+ <img title="" src="./Current_mainstream_datasets.png" alt="Alternative text" width="637">
+ <img title="" src="./human_organ_distribution_maps.png" alt="Alternative text" width="637">
 ## Mainstream Datasets
 
 
