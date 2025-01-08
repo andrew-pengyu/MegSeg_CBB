@@ -12,7 +12,7 @@ A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, an
  
 ## Mainstream Datasets
 
- <img title="" src="./Current_mainstream_datasets.png" alt="Alternative text" width="637">
+ <img title="" src="./Current_mainstream_datasets.png" alt="Alternative text">
  
 |      Organ     |      Dataset Name     | Paper Title                                                                                                                                                                     | Download          |
 |:--------------:|:---------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -27,7 +27,7 @@ A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, an
 | Comprehensive  |           QUBIQ       | [QUBIQ: Uncertainty Quantification for Biomedical Image Segmentation Challenge](https://arxiv.org/html/2405.18435v2)                                                            | [Link](https://qubiq.grand-challenge.org/participation/)     |
 | Comprehensive  |Synapse Multi-Organ CT | [MICCAI 2015 Multi-Atlas Abdomen Labeling Challenge](https://www.synapse.org/Synapse:syn3193805/wiki/217789)                                                                    | [Link](https://paperswithcode.com/sota/medical-image-segmentation-on-synapse-multi)     |
 
- <img title="" src="./human_organ_distribution_maps.png" alt="Alternative text" width="637">
+ <img title="" src="./human_organ_distribution_maps.png" alt="Alternative text" >
 
 ## Main Comparison Methods
 
@@ -87,7 +87,7 @@ A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, an
 | 2022 |   WACV  |  CFlow-AD   | [CFLOW-AD: Real-Time Unsupervised Anomaly Detection with Localization via Conditional Normalizing Flows](https://arxiv.org/abs/2107.12571)   | [Code](https://github.com/gudovskiy/cflow-ad) |
 | 2024 |   CVPR  |     BGAD    | [Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection](https://arxiv.org/abs/2207.01463)            | [Code](https://github.com/xcyao00/BGAD) |
 
- <img title="" src="./Comparison_method _tree_diagram.png" alt="Alternative text" width="637">
+ <img title="" src="./Comparison_method _tree_diagram.png" alt="Alternative text" >
  
 ## Contributing
 
