@@ -12,7 +12,7 @@ A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, an
  
 ## Mainstream Datasets
 
- <img title="" src="./Current_mainstream_datasets.png" alt="Alternative text">
+
  
 |      Organ     |      Dataset Name     | Paper Title                                                                                                                                                                     | Download          |
 |:--------------:|:---------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
